@@ -11,7 +11,7 @@ stdenv.mkDerivation (finalAttrs: {
     appId = "896660";
     depotId = "896661";
     manifestId = "6248571692813894409";
-    hash = "sha256-";
+    hash = "sha256-13435135135435s4d3f4sd35f13sd1f35sd1f";
   };
 
   # Skip phases that don't apply to prebuilt binaries.
